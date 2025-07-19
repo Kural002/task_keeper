@@ -7,4 +7,4 @@
 | **Local Storage**    | SharedPreferences           | Key-value storage for persisting tasks locally |
 | **Architecture**     | MVVM (Model-View-ViewModel) | Clean separation of logic, UI, and data        |
 | **Language**         | Dart                        | Programming language used with Flutter         |
-| **IDE**              | Android Studio / VS Code    | Development environment                        |
+| **IDE**              | VS Code    | Development environment                        |
